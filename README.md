@@ -31,9 +31,8 @@ I'm Muhammad Aladdin, a Software Development Engineer (SDE) with about 3 years o
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="Graphql" width="75" height="55"/>
 </p>
 
-- I've worked for: [Breadfast](https://www.breadfast.com/) and [Swvl](https://www.swvl.com/)
+- I've worked for: [Breadfast](https://www.breadfast.com/), [Swvl](https://www.swvl.com/) and more
 - You can find my updated resume on [Google Drive](https://drive.google.com/file/d/1tXhQbZeWP66v0PLajlxt53mwbo5dOpk5/view?usp=share_link)
 - Also find my profile on [LinkedIn](https://www.linkedin.com/in/mualaddinibrahim/)
 - sometimes I leetcode, here's my [Profile](https://leetcode.com/MuhammadAladdin/) if you're interested
-- currently, I'm interested in system design, cloud computing so I'm completing a cloud developer nanodegree by udacity, and tutoring through videos and articles
 
